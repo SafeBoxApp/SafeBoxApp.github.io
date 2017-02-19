@@ -7,6 +7,8 @@ permalink: /download/
 Please check below for the latest APK files.
 
 ### SafeBox
+Current SafeBox only supports Android 5.0-6.0. Please be patient and wait for our updates, if your Andrioid device is running on Nougat.
+
 [SafeBox_v0.1a.apk](/releases/SafeBox_v0.1a.apk)
 
 ### DroidGuard Helper
